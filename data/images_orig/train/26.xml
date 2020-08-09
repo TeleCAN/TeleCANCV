@@ -1,0 +1,26 @@
+<annotation>
+	<folder>轉檔</folder>
+	<filename>26_20200531_165803.png</filename>
+	<path>E:\windows_v1.8.0\轉檔\26_20200531_165803.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>285</ymin>
+			<xmax>2759</xmax>
+			<ymax>2554</ymax>
+		</bndbox>
+	</object>
+</annotation>

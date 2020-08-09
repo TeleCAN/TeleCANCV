@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original picture</folder>
+	<filename>55_20200531_164446.png</filename>
+	<path>D:\TeleCAN\框好照片\Paper\original picture\55_20200531_164446.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1049</xmin>
+			<ymin>77</ymin>
+			<xmax>1907</xmax>
+			<ymax>2931</ymax>
+		</bndbox>
+	</object>
+</annotation>
